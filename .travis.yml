@@ -16,6 +16,7 @@ language: node_js
 os:
   - linux
   - osx
+  - freebsd
 
 osx_image: xcode10
 
